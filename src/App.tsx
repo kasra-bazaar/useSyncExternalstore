@@ -1,4 +1,4 @@
-import SyncExternal from "./hooks/SyncExternalExample"
+import SyncExternal from "./components/SyncExternalExample"
 
 
 function App() {
